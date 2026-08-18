@@ -9,9 +9,7 @@
 * *Prakash Chawla* (2420030446)
 * *Shashivadhan reddy* (2420030648)
 
-Project Guide: G.Lavanya .
-Course: Adaptive Software Engineering Project (24CI3201) | A.Y.: 2026 - 2027
-Department: CSE
+Project Guide: G.Lavanya
 
 Abstract :
 ExpenseHub is a web-based application developed to simplify personal financial management and help users maintain organized records of their daily transactions.
