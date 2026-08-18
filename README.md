@@ -1,4 +1,7 @@
-ExpenseHub: Budget Management System
+# ExpenseHub: Budget Management System
+
+*Course:* Adaptive Software Engineering Project (24CI3201) | *A.Y.:* 2026 - 2027
+*Department:* CSE
  
 Team Members University ID :
 Ajithesh  (2420030109),  Gowtham Karthikeya (2420030222), Prakash Chawla  (2420030446)
